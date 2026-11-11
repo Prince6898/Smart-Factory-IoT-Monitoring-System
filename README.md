@@ -1,6 +1,6 @@
 # Smart Factory IoT Monitoring System
 
-## 📌 Project Overview
+## 📌 Project Description
 This project is an IoT-based Smart Factory Monitoring System developed during my internship. It monitors environmental and operational parameters in real time and enables automation and remote control.
 
 ## 🚀 Features
